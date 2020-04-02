@@ -1,2 +1,2 @@
 # Headhunter 
-parsing hh.ry for data scientist vacancies
+extracting data scientist vacancies from hh.ry 
